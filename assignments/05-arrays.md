@@ -29,8 +29,8 @@
 24. [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) Done
 25. [Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) Done
 26. [Plus One](https://leetcode.com/problems/plus-one/) Done
-27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
-28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/)
+27. [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) Done
+28. [Minimum Cost to Move Chips to The Same Position](https://leetcode.com/problems/minimum-cost-to-move-chips-to-the-same-position/) Done
 
 ### Medium
 1. [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
